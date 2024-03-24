@@ -48,4 +48,4 @@ Contributions are welcome! Here's how you can contribute:
 
 ## Credits
 
-This project was created by ![Mueez](https://github.com/mueezbaig).
+This project was created by [Mueez](https://github.com/mueezbaig).
