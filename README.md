@@ -30,9 +30,18 @@ This project demonstrates a basic Kanban board with three swim lanes: TODO, Doin
 
 ## Screenshots
 
+### Kanban Board Interface
+
 ![Kanban Board](https://github.com/mueezbaig/Kanban-Board/blob/main/snapshots/Kanban.png)
-![Adding a Task](https://github.com/mueezbaig/Kanban-Board/blob/main/snapshots/add_task.png)
+
+### Adding a Task
+![](https://github.com/mueezbaig/Kanban-Board/blob/main/snapshots/add_task.png)
+
+### Moving Tasks
+
 ![Moving Tasks](https://github.com/mueezbaig/Kanban-Board/blob/main/snapshots/Moving_task.png)
+
+### Deleting a Task
 ![Deleting a Task](https://github.com/mueezbaig/Kanban-Board/blob/main/snapshots/deleting_task.png)
 
 ## Contributing
