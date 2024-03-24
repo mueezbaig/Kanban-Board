@@ -1,51 +1,45 @@
-# Kanban-Board
+# Kanban Board
 
-This is a simple Kanban Board implemented using HTML, CSS, and JavaScript.
+A simple Kanban board implemented using HTML, CSS, and JavaScript.
 
-## Overview
+## Description
 
-The Kanban Board allows you to organize tasks into columns representing different stages of your workflow. It provides a visual representation of work items, making it easier to track progress and manage tasks efficiently.
+This project demonstrates a basic Kanban board with three swim lanes: TODO, Doing, and Done. Tasks can be added, moved between lanes using drag-and-drop, and deleted.
 
 ## Features
 
-- Drag and drop tasks between columns.
-- Add new tasks dynamically.
-- Intuitive interface for easy task management.
-- Delete tasks after completing the chores.
+- **Task Management**: Add, move, and delete tasks within the Kanban board.
+- **Drag-and-Drop**: Use drag-and-drop functionality to move tasks between swim lanes.
+- **Responsive Design**: The board layout adjusts to different screen sizes for optimal viewing.
+- **User Instructions**: Provide clear instructions for adding, moving, and deleting tasks.
 
-## Screenshots
+## Setup
 
-### Kanban Board Interface
+1. Clone the repository to your local machine:
 
-![Kanban Board Interface](./snapshots/User_interface.png)
+```git clone https://github.com/your-username/kanban-board.git ```
 
-### Adding a New Task
 
-![Adding a New Task](./snapshots/adding_task.png)
-
-### Moving Tasks Between Columns
-
-![Moving Tasks Between Columns](./snapshots/moving_task_between_cols.png)
-
-### Deleting a Task
-
-![Moving Tasks Between Columns](./snapshots/deleting_task.png)
+2. Open the `index.html` file in your web browser to view the Kanban board.
 
 ## Usage
 
-To use the Kanban Board, simply open the `index.html` file in your web browser. You can add new tasks by clicking on the "Add Task" button and drag tasks between columns to update their status.
+1. To add a new task, type the task description into the input field and click the "Add +" button.
+2. To move a task, click and drag the task card to the desired swim lane.
+3. To delete a task, double-click on the task card.
+
+## Screenshots
+
+![Kanban Board](./Snapshots/Kanban.png)
+![Adding a Task](./Snapshots/add_task.png)
+![Moving Tasks](./Snapshots/Moving_task.png)
+![Deleting a Task](./Snapshots/Deleting_task.png)
 
 ## Contributing
 
-Contributions are welcome! Here's how you can contribute:
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-branch-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/your-branch-name`).
-6. Create a new Pull Request.
+## Forking
 
-## Credits
+To fork this repository, simply click the "Fork" button on the top-right corner of the repository page. This will create a copy of the repository in your GitHub account, allowing you to make changes without affecting the original project.
 
-This project was created by [Mueez](https://github.com/mueezbaig).
